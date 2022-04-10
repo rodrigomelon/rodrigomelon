@@ -10,7 +10,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomelon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-- 📝Portfolio: <a href="https://rodrigomelon.github.io/rodrigomport/">https://rodrigomelon.github.io/rodrigomport/ </a>
+- 📝Portfolio: <a href="https://rodrigomelon.github.io/rodrigomport/" target="_blank">https://rodrigomelon.github.io/rodrigomport/ </a>
 
 
 
