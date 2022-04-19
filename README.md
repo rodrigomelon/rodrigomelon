@@ -4,9 +4,9 @@
   </a> <br/>
   <br/>
  
-- 👨‍💻 Fullstack Web Developer - currently working as freelancer
+- 👨‍💻 Web Developer - currently working as freelancer
 
-- 💻 JavaScript enthusiast, interested in web/mobile development (React.js, React Native, Node.js, Express.js, C++...)
+- 💻 JavaScript enthusiast, interested in web/mobile development 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomelon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
