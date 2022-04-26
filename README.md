@@ -4,7 +4,7 @@
   </a> <br/>
   <br/>
  
-- 👨‍💻 Web Developer - currently working as freelancer
+- 👨‍💻 Web Developer / Front-end - currently working as freelancer
 
 - 💻 JavaScript enthusiast, interested in web/mobile development 
 
