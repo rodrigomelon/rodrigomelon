@@ -5,11 +5,3 @@
   <br/>
  
 - 💻 JavaScript enthusiast, interested in web/mobile development 
-
-
-
-- 📝Portfolio: <a href="https://rodrigomelon.github.io/rodrigomport/" target="_blank">https://rodrigomelon.github.io/rodrigomport/ </a>
-
-
-
-
